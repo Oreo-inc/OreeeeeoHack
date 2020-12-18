@@ -1,8 +1,8 @@
 [
     {
       "modid": "salhack",
-      "name": "SalHack",
-      "description": "SalHack utility mod.",
+      "name": "OreeeeeoHack",
+      "description": "An Early Version Of OreoHack Based Off Of The SalHack Utility Mod",
       "version": "${modVersion}",
       "mcversion": "${version_minecraft}",
       "url": "https://salhack.com",
